@@ -1,0 +1,7 @@
+1.Stack works on FIFO Principle
+2.Operations we can do:
+    Push
+    Pop
+    Peek-Top element can be found
+    isEmpty
+    
